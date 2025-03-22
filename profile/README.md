@@ -1,4 +1,4 @@
-# 🙋‍♀️ A short introduction
+# 👋 A short introduction
 
 Howdy folks! I'm obsessed with building a robust, automated home lab and spend too much time and money doing so.
 
