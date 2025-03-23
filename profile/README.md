@@ -16,3 +16,16 @@ My plan:
 Blog: [the.oldschool.engineer](https://the.oldschool.engineer)
 GitHub Profile: [oldschool-engineer](https://github.com/oldschool-engineer)
 
+
+# FAQ
+
+## Q: What is Kuhl Haus?
+Kuhl Haus is a play on "cool house" with German-inspired spelling.
+🆒🏠Kuhl Haus
+
+## Q: Why did you choose Kuhl Haus?
+I wanted a name that would capture the spirit of building cool stuff for smart homes.  I'm a huge fan of [Kuhl clothing](https://www.kuhl.com/), `haus` is a valid Top-Level Domain and, it just so happened that `kuhl.haus` was available.  I could've used `janky.click`, like my random dad joke site [ur.janky.click](https://ur.janky.click), but that name doesn't exactly inspire confidence.  😁
+
+
+## Q: Why did you choose Kuhl Haus instead of Cool House?
+"Cool House" is a common phrase indistinguishable from any particular project or branding perspective.  In that respect, Kuhl Haus stands out, plus the domain name `kuhl.haus` was available.
