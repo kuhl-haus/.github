@@ -2,7 +2,7 @@
 
 Howdy folks! I'm obsessed with building a robust, automated home lab and spend too much time and money doing so.
 
-Kuhl Haus is an organization I created to separate my side-projects from my personal GitHub account. It currently holds 86 repositories: 8 public, 78 private.
+Kuhl Haus is an organization I created to separate my side-projects from my personal GitHub account. It currently holds 52 repositories: 8 public, 44 private.
 
 This is a work-in-progress, which I am in the early stages of.
 
