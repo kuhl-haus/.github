@@ -15,7 +15,7 @@ Project Links:
 * [Project Roadmap](https://github.com/orgs/kuhl-haus/projects/2/views/4)
 * [Project Backlog](https://github.com/orgs/kuhl-haus/projects/2/views/3)
 
-Blog: [the.oldschool.engineer](https://the.oldschool.engineer)
+Blog: [oldschool-engineer.dev](https://oldschool-engineer.dev/blog)
 GitHub Profile: [oldschool-engineer](https://github.com/oldschool-engineer)
 
 
